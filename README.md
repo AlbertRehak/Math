@@ -10,6 +10,7 @@ Mathematics notes by Albert Rehak.
 ### 2025–26
 - [Real Analysis — Minimal Notes (PDF)](Teaching/2025-26/Real%20Analysis/Real_Analysis_KCL_MN_2526.pdf)
 - [Fourier Analysis — Minimal Notes (PDF)](Teaching/2025-26/Fourier%20Analysis/Fourier_Analysis_MN_2526.pdf)
+- [Linear Algebra & Geometry I — Minimal Notes (PDF)](Teaching/2025-26/Linear%20Algebra%20and%20Geometry%20I/LAG_Minimal_Notes_2025-26.pdf)
 
 ### 2026–27
 - [Metric Spaces & Topology — Minimal Notes (PDF)](Teaching/2026-27/Metric%20Spaces%20and%20Topology/Metric_Spaces_Topology_MN_2627.pdf)
